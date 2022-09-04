@@ -9,5 +9,19 @@ const kheight = SizedBox(
 const kheigth20 = SizedBox(
   height: 20,
 );
+
 //BoderRadius
+
 final BorderRadius kRadius10 = BorderRadius.circular(10);
+
+//image
+
+const kMainImage =
+    "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/action-movie-poster-template-design-0f5fff6262fdefb855e3a9a3f0fdd361_screen.jpg?ts=1636996054";
+
+//TextStyle
+
+TextStyle kHomeTitleText = TextStyle(
+  fontSize: 14,
+  fontWeight: FontWeight.bold,
+);
