@@ -14,6 +14,8 @@ const kheigth20 = SizedBox(
 
 final BorderRadius kRadius10 = BorderRadius.circular(10);
 
+final BorderRadius kRadius30 = BorderRadius.circular(30);
+
 //image
 
 const kMainImage =
@@ -21,7 +23,9 @@ const kMainImage =
 
 //TextStyle
 
-TextStyle kHomeTitleText = TextStyle(
+TextStyle kHomeTitleText = const TextStyle(
   fontSize: 14,
   fontWeight: FontWeight.bold,
 );
+
+const newAndHotTempImage = "https://wallpaperaccess.com/full/1076854.jpg";
